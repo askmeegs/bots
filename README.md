@@ -1,5 +1,4 @@
-# generativeverse
-a poetic twitter bot
+# bots
+twitter bots (2016-)
 
-thank you to http://cheapbotsdonequick.com/
-and https://github.com/dariusk/corpora
+thanks to https://github.com/dariusk/corpora
