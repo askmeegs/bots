@@ -1,0 +1,13 @@
+{
+  "origin": ["#kind# with #toppings#", "#size# #kind#", "#size# #kind# with #toppings"],
+  "kind": ["plain", "pepperoni", "mushroom", "chicago-style", "new york-style", "thin-crust", "#place#-inspired"],
+  "size": ["10-inch", "12-inch", "medium", "small", "large", "#rare#"],
+  "rare": ["pizza bagel", "pita", "tortilla pizza", "deconstructed", "pizza salad", "pizza eggs"],
+  "place": ["England", "Philadelphia", "Boston", "southern", "Canadian", "Middle Eastern", "Mediterranean", "Japanese"],
+  "toppings": ["#tkind#", "#tkind# and #tkind#", "#tkind#, #tkind# and #tkind#"],
+  "tkind": ["vegan #cheese#", "cashew #cheese#", "nutritional yeast", "fried 'egg'", "#spice#", "#condiment#", "#vtoppings#"],
+  "cheese": ["ricotta", "fresh mozzarella", "cheddar", "goat cheese", "grated parmesan"],
+  "spice": ["sea salt", "black pepper", "pepper flakes", "cayenne pepper", "cumin", "thyme", "oregano", "fresh basil"],
+  "condiment": ["sriracha", "dijon mustard", "ketchup", "barbecue sauce", "olive oil"]
+  "vtoppings": ["bell peppers", "jalapeño", "tofu", "seitan", "zucchini", "broccolini"]
+}
